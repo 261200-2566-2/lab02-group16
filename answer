@@ -1,0 +1,36 @@
+what should be instance variables?
+
+    สถานะเครื่อง(เปิด/ปิด)
+    ค่า pm 2.5
+    ความเร็วพัดลม
+    สถานะไส้กรอง
+
+what should be instance methods?
+
+    เปิด/ปิดเครื่อง
+    แสดงค่า pm2.5
+    เปลี่ยนความเร็วพัดลม
+
+what should be class variables?
+
+    ปีที่ผลิต
+    รุ่น
+    เลขประจำเครื่อง
+
+what should be class methods?
+
+    แสดงอายุการใช้งาน
+
+what's needed as inputs?
+
+    สวิชต์เปิด/ปิด
+    อากาศ
+    ปุ่มเปลี่ยนความแรงลม
+    ปีที่ผลิตรุ่น
+
+what's to be returned?
+
+    ค่าเปิดปิดเครื่อง
+    ค่า pm2.5
+    ค่าความแรงลมใหม่
+    อายุเครื่อง

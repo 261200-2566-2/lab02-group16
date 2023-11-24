@@ -1,0 +1,28 @@
+    Air purifier
+        Hardware
+            Case
+            On/Off Switch
+            Changing fan speed switch
+            Fan
+            Air cleanner
+            Circiut
+            Sensor
+            Monitor
+        Software
+            Detect Pm2.5
+            Change fan speed
+
+        Method
+            Turn on/Off
+            Detect Pm2.5
+            Changing Fan speed
+
+        Variable
+            machine status(on/Off)
+            quality of pm2.5
+            fan speed(0/1/2/3)
+            Air cleanner status(good/need to be Changed)
+
+        boolean stutus = 0
+        double pm = 0.00
+        int fanSpeed = 0
